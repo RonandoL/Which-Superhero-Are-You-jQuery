@@ -1,0 +1,27 @@
+                  Fly  -  from Earth  - male/female  -  cape  -  God  -  Mask       -  Dr? - rich?  -  tragic death - Super strong
+FLY
+Wonder Woman -    yes:skill  -  yes    -   female    -   no   -   no  -  no         -  no  -  no    -    no         -  yes
+Thor -            yes:item   -  no     -    male     -   yes  -   yes -  no         -  no  -  no    -    no         -  yes
+Iron Man -        yes:item   -  yes    -    male     -   no   -   no  -  yes:full   -  no  -  yes   -    no         -  yes
+Superman -        yes:skill  -  no     -    male     -   yes  -   no  -  no         -  no  -  no    -    yes        -  yes
+Green Lantern -   yes:item   -  yes    -    male     -   no   -   no  -  yes        -  no  -  no    -    no         -  yes
+Martian Manhunter yes:skill  -  no     -    male     -   yes  -   no  -  no         -  no  -  no    -    no         -  yes
+Scarlet Witch -   yes:skill  -  yes    -   female    -   yes  -   no  -  no         -  no  -  no    -    no         -  no
+Silver Surfer -   yes:item   -  no     -    male     -   no   -   no  -  no         -  no  -  no    -    no         -  yes
+Galactus -        yes:skill  -  no     -    male     -   no   -   no  -  yes        -  no  -  no    -    no         -  yes
+Dr. Doom -        yes:item   -  yes    -    male     -   yes  -   no  -  yes:full   -  yes -  yes   -    no         -  yes
+Dr. Strange -     yes:skill  -  yes    -    male     -   yes  -   no  -  no         -  yes -  no    -    no         -  no
+
+                  Fly  -  from Earth  - male/female  -  cape  -  God  -  Mask      -  Dr? - rich?  -  tragic death - Super strong
+NOT FLY
+Batman -          no         -  yes    -    male     -   yes  -   no  -  yes       -  no  -  yes   -    yes        -  no
+Captain America - no         -  yes    -    male     -   no   -   no  -  yes       -  no  -  no    -    no         -  yes
+Spider-Man -      no         -  yes    -    male     -   no   -   no  -  yes       -  no  -  no    -    yes        -  yes
+Wolverine -       no         -  yes    -    male     -   no   -   no  -  yes       -  no  -  no    -    no         -  no
+Cyclops -         no         -  yes    -    male     -   no   -   no  -  yes       -  no  -  no    -    no         -  no
+Green Arrow -     no         -  yes    -    male     -   no   -   no  -  yes       -  no  -  yes   -    no         -  no
+Black Panther -   no         -  yes    -    male     -   no   -   no  -  yes:full  -  no  -  yes   -    no         -  no
+Hawkeye -         no         -  yes    -    male     -   no   -   no  -  yes       -  no  -  no    -    no         -  no
+Black Widow -     no         -  yes    -    female   -   no   -   no  -  no        -  no  -  no    -    no         -  no
+Hulk -            no         -  yes    -    male     -   no   -   no  -  yes       -  yes -  no    -    no         -  no
+Flash -           no         -  yes    -    male     -   no   -   no  -  yes       -  no  -  no    -    yes        -  no
