@@ -1,44 +1,35 @@
-# WARNING - DOWNLOAD ZIP INSTEAD OF CLONING!
-### If you clone, it will list me as a contributor and retain all the old commits, and you don't want that. Download Zip instead then change folder name.
+# Which Superhero Are You?
 
-=========
-# insertApplicationName
+#### _User answers form questions, form spits out which superhero they are, March 17, 2016_
 
-#### briefDescription, dateOfCurrentVersion_
-
-#### By _**insertContributorNumberOne, insertContributorNumberTwo **_
+#### By _**Ronando Long**_
 
 ## Description
 
-_insertDetailedDescriptionsOfApplication_
+_Form uses radio buttons to ask multiple boolean questions. Result of submitted form spits out which superhero user is, based on user input._
 
 ## Setup/Installation Requirements
 
-* _list_
-* _all_
-* _requirements_
+* _plug and play_
+* _nothing fancy_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+_{Basic index.html, no server}_
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_{No bugs found ...yet}_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_{No support.}_
 
 ## Technologies Used
 
-* _list_
-* _all_
-* _tech_
-* _used_
-
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+* _jQuery_
+* _Bootstrap_
 
 ### License
 
-*This software is licensed under the MIT license.*
+*No worries*
 
-Copyright (c) 2016 **By insertContributorsHere**
+No Copyright (c) 2016 

@@ -2,9 +2,11 @@
 FLY
 Wonder Woman -    yes:skill  -  yes    -   female    -   no   -   no  -  no         -  no  -  no    -    no         -  yes
 Thor -            yes:item   -  no     -    male     -   yes  -   yes -  no         -  no  -  no    -    no         -  yes
-Iron Man -        yes:item   -  yes    -    male     -   no   -   no  -  yes:full   -  no  -  yes   -    no         -  yes
+Iron Man -        yes:item   -  yes    -    male     -   no   -   no  -  yes:full   -  no  -  yes   -    yes         -  yes
 Superman -        yes:skill  -  no     -    male     -   yes  -   no  -  no         -  no  -  no    -    yes        -  yes
+
 Green Lantern -   yes:item   -  yes    -    male     -   no   -   no  -  yes        -  no  -  no    -    no         -  yes
+
 Martian Manhunter yes:skill  -  no     -    male     -   yes  -   no  -  no         -  no  -  no    -    no         -  yes
 Scarlet Witch -   yes:skill  -  yes    -   female    -   yes  -   no  -  no         -  no  -  no    -    no         -  no
 Silver Surfer -   yes:item   -  no     -    male     -   no   -   no  -  no         -  no  -  no    -    no         -  yes
