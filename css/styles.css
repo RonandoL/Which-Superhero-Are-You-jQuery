@@ -6,8 +6,13 @@
 form {
   margin-bottom: 25px;
 }
+
 button {
   margin-top: 15px;
+}
+
+.results {
+  margin-bottom: 25px;
 }
 
 /* start Jumbotron background image styles */
